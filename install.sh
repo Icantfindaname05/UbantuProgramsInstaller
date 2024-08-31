@@ -21,7 +21,7 @@ sudo apt update
 sudo apt install code 
 #install term utils 
 sudo apt install htop 
-#remove software 
+#remove hexchat and parole media player
 sudo apt remove hexchat parole 
 sudo apt-get purge kdeconnect
 sudo apt update && sudo apt upgrade 
