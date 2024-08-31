@@ -1,7 +1,7 @@
 #update system | the install prosp did this lol 
 sudo apt update && sudo apt upgrade 
 #install basic utils
-sudo apt install vlc gimp kdenlive blender krita freecad libreoffice kate gnome-software 
+sudo apt install vlc gimp kdenlive blender krita freecad libreoffice kate gnome-software file-roller
 #install music player and other fun things 
 sudo apt install strawberry 
 #install icon theam
