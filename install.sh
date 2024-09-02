@@ -19,10 +19,10 @@ rm -f packages.microsoft.gpg
 sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code 
-#install term utils 
-sudo apt install htop 
 #remove hexchat and parole media player
 sudo apt remove hexchat parole 
 sudo apt-get purge kdeconnect
 sudo apt update && sudo apt upgrade 
-#rm -f install.sh
+#git clone - github location of cheet sheet - | add in newer version
+rm -f install.sh #remove installer from computer
+
